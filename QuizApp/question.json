@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the capital city of Cambodia?",
+    "choice1": "Phnom Penh",
+    "choice2": "Siem Reap",
+    "choice3": "Battambang",
+    "choice4": "Preah Sihanouk",
+    "answer": 1
+  },
+  {
+    "question": "What famous ancient temple is Cambodia known for?",
+    "choice1": "Shwedagon Pagoda",
+    "choice2": "Borobudur",
+    "choice3": "Angkor Wat.",
+    "choice4": "Taj Mahal",
+    "answer": 3
+  },
+  {
+    "question": "Where is Cambodia located?",
+    "choice1": "Central Asia",
+    "choice2": "South Asia",
+    "choice3": "East Asia",
+    "choice4": "Southeast Asia",
+    "answer": 4
+  }
+]
